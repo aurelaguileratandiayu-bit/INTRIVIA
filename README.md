@@ -14,4 +14,6 @@ Pesan:Terima kasih kepada panitia dan mentor yang sudah membimbing kami.
  Anggota clusternya ramah dan saling membantu, jadi aku lebih mudah beradaptasi dan tidak merasa sendirian.
 Pesan: Semoga Cluster 17 tetap kompak dan saling mendukung sampai ke depannya. Terima kasih kepada kakak mentor yang sudah membimbing dan menemani kami. 
 
-git branch intrivia
+## Harapan Kuliah 
+Semoga aku bisa menjalani kuliah di Teknik Informatika dengan baik, terus semangat belajar, dan lulus tepat waktu dengan ilmu yang bermanfaat untuk karir impianku.
+
