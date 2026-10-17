@@ -14,5 +14,4 @@ Pesan:Terima kasih kepada panitia dan mentor yang sudah membimbing kami.
  Anggota clusternya ramah dan saling membantu, jadi aku lebih mudah beradaptasi dan tidak merasa sendirian.
 Pesan: Semoga Cluster 17 tetap kompak dan saling mendukung sampai ke depannya. Terima kasih kepada kakak mentor yang sudah membimbing dan menemani kami. 
 
-
-
+git branch intrivia
